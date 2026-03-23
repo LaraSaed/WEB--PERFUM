@@ -18,3 +18,7 @@
 ## 🔗 [Explore the Live Site](https://larasaed.github.io/WEB--PERFUM/)
 
 *"A project where scent meets software."*
+
+---
+### 🎓 Academic Context
+This project was developed in **2024** as part of the **Web Technologies** course during my **Software Engineering** studies at **Bethlehem University**.
